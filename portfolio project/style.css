@@ -1,0 +1,113 @@
+.intro1{
+    font-size: 7rem;
+    font-weight: 400;
+}
+.intro2{
+    font-size: 5rem;
+    letter-spacing: -5px;
+    font-weight:500 ;
+    font-style: italic;
+    font-family: monospace,Sans-serif;
+}
+.img1{
+    border-radius: 5rem !important;
+    margin-left: 50px;
+}
+.intro3{
+    font-size: 3rem;
+    color: black;
+}
+.intro3:hover{
+    color: black;
+}
+.intro4{
+    font-size: 1.5rem;
+    margin-left: .70rem;
+    text-decoration: none;
+    color: black;
+}
+.intro4:hover{
+    color: black;
+}
+.intro5{
+    font-size: 1.5rem;
+    margin-left: 30rem;
+    text-decoration: none;
+    color: black;
+}
+.intro5:active{
+    border-left: 1px dotted black;
+    border-right: 1px dotted black;
+}
+.intro6{
+    font-size: 1.5rem;
+    margin-left: 3rem;
+    text-decoration: none;
+    color: black;
+}
+.intro6:active{
+    border-left: 1px dotted black;
+    border-right: 1px dotted black;
+}
+.intro7{
+    font-size: 1.5rem;
+    margin-left: 3rem;
+    text-decoration: none;
+    color: black;
+}
+.intro7:active{
+    border-left: 1px dotted black;
+    border-right: 1px dotted black;
+}
+.m1{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.m2{
+    margin-left: 10rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.m3{
+    font-size: 1.5rem;
+    margin-left: 10rem;
+
+}
+.m4{
+    font-size: 1.5rem;
+    margin-left: 10rem;
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid #3fd5e0;
+}
+.m4:hover{
+    color: black;
+    border-bottom:2px solid black;
+}
+.c1{
+    margin: -1rem;
+    font-size: 4rem;
+    font-weight: 600;
+}
+.f-1{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.f-2{
+    font-size: 3rem;
+    font-weight: 800;
+}
+.f-3{
+    border-bottom:2px solid #3fd5e0 ;
+    text-decoration: none;
+    color: black;
+}
+.f-3:hover{
+    color: black;
+    border-bottom:2px solid black;
+}
+.mail{
+    font-size: 5rem !important;
+    font-weight: 800 !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
